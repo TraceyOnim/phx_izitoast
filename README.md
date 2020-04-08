@@ -10,7 +10,7 @@ This is a Phoenix Elixir IziToast Notification wrapper by [IziToast](https://izi
 ## Installation
 
 The package can be installed
-by adding `phx_izitoast` to your list of dependencies in `mix.exs`:
+by adding `phx_izitoast` to your list of dependencies in `mix.exs`: Then run `mix.deps.get`
 
 ```elixir
 def deps do
